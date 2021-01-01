@@ -35,6 +35,7 @@
 <code><img height="30" src="https://github.com/lastnightinparis/lastnightinparis/blob/master/hibernate.jpg"></code>
 <code><img height="30" src="https://github.com/lastnightinparis/lastnightinparis/blob/master/oracle.jpg"></code>
 <code><img height="30" src="https://github.com/lastnightinparis/lastnightinparis/blob/master/ico-spring.svg"></code>
+<code><img height="30" src="https://github.com/lastnightinparis/lastnightinparis/blob/master/java-ee-logo.png"></code>
 <br />
 <br />
 <br />
