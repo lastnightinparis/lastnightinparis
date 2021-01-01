@@ -5,9 +5,7 @@
 </a>
 <a href="https://t.me/lastnightinpariss">
   <img align="left" alt="Kirill's telegram" width="22px" src="https://github.com/lastnightinparis/lastnightinparis/blob/master/telegram.svg" />
-</a>
-
-<br />
+</a>  
 
 Hi, I'm [Kirill Tankovskiy!](https://vk.com/tankillah) A passionate beginner back-end developer 🚀 from Russia.
 
