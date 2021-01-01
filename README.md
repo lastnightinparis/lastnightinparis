@@ -49,7 +49,8 @@
 </br>
 </br>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lastnightinparis&show_icons=true&theme=gotham" alt="lastnightinparis" />
+![Kirills's github stats](https://github-readme-stats.vercel.app/api?username=lastnightinparis&show_icons=true&locale=en&layout=compact&theme=gotham)]
+
  <br />
  <br />
   
