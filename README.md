@@ -5,9 +5,11 @@
 </a>
 <a href="https://t.me/lastnightinpariss">
   <img align="left" alt="Kirill's telegram" width="22px" src="https://github.com/lastnightinparis/lastnightinparis/blob/master/telegram.svg" />
-</a>  
+</a>
 
-Hi, I'm [Kirill Tankovskiy!](https://vk.com/tankillah) A passionate beginner back-end developer 🚀 from Russia.
+<br />
+
+#### Hi, I'm [Kirill Tankovskiy!](https://vk.com/tankillah) A passionate beginner back-end developer 🚀 from Russia.
 
   <img align="right" alt="GIF" src="https://github.com/lastnightinparis/lastnightinparis/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -37,6 +39,15 @@ Hi, I'm [Kirill Tankovskiy!](https://vk.com/tankillah) A passionate beginner bac
 <br />
 <br />
 📈 My GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lastnightinparis&show_icons=true&locale=en&layout=compact&theme=gotham" alt="lastnightinparis" /></p>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lastnightinparis&show_icons=true&theme=gotham" alt="lastnightinparis" />
  <br />
