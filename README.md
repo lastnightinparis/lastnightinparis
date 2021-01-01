@@ -3,11 +3,9 @@
 <a href="https://vk.com/tankillah">
   <img align="left" alt="Kirill's vk.com" width="22px" src="https://github.com/lastnightinparis/lastnightinparis/blob/master/vk.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+<a href="https://t.me/lastnightinpariss">
   <img align="left" alt="Kirill's telegram" width="22px" src="https://github.com/lastnightinparis/lastnightinparis/blob/master/telegram.svg" />
 </a>
-<br />
-
 
 Hi, I'm [Kirill Tankovskiy!](https://vk.com/tankillah) A passionate beginner back-end developer 🚀 from Russia.
 
